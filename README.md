@@ -1,1 +1,1 @@
-﻿# Teach2give-chuka-cohort2 Git Merging and Branchign
+﻿# Teach2give-chuka-cohort2 Git Merging and Branching
